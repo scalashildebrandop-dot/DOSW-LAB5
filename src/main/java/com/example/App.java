@@ -2,7 +2,7 @@ package com.example;
 
 /**
  * Hello world!
- *
+ *xd
  */
 public class App 
 {
