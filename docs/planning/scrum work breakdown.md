@@ -166,4 +166,5 @@
 
 ---
 ## Punto 4
-El video de las estimaciones esta en DOSW-LAB5/docs/images
+VIDEO REUNION
+https://youtu.be/2tertEKN2iI

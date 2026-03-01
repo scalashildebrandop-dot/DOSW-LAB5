@@ -72,3 +72,5 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ![alt text](image-8.png)
 
+### 4 punto 
+![alt text](image.png)
