@@ -25,19 +25,19 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 **ID Jira:** (Ej: BK-3)  
 **Descripción:** Como cliente, quiero realizar un depósito a una cuenta, para agregar dinero de forma segura y controlada.
 
-![alt text](image-2.png)
+![alt text](https://github.com/scalashildebrandop-dot/DOSW-LAB5/blob/develop/docs/images/Screenshot_20260228_181523.png)
 
 ### HU-03 – Validar datos de cuenta antes de operar
 **ID Jira:** (Ej: BK-4)  
 **Descripción:** Como cliente, quiero que el sistema valide los datos de la cuenta antes de operar, para evitar errores y operaciones inválidas.
 
-![alt text](image-3.png)
+![alt text](https://github.com/scalashildebrandop-dot/DOSW-LAB5/blob/develop/docs/images/Screenshot_20260228_181731.png)
 
 ### HU-04 – Confirmación y registro de transacciones
 **ID Jira:** (Ej: BK-5)  
 **Descripción:** Como cliente, quiero recibir confirmación y que quede registro del depósito, para tener evidencia de la transacción.
 
-![alt text](image-4.png)
+![alt text](https://github.com/scalashildebrandop-dot/DOSW-LAB5/blob/develop/docs/images/Screenshot_20260228_181951.png)
 
 ### 3. Tareas:
 
@@ -46,29 +46,27 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 - TR-02 – Implementar lógica de negocio para consulta de saldo  
 - TR-03 – Pruebas unitarias de consulta de saldo  
 
-![alt text](image-5.png)
-
 ### Tareas HU-02
 - TR-04 – Diseñar flujo de depósito  
 - TR-05 – Implementar interfaz de interacción  
 - TR-06 – Pruebas unitarias de depósito  
-
 
 ### Tareas HU-03
 - TR-07 – Validar formato de número de cuenta  
 - TR-08 – Validar banco registrado  
 - TR-09 – Validar estado de cuenta  
 
-
-
 ### Tareas HU-04
 - TR-10 – Definir estructura del registro  
 - TR-11 – Implementar guardado del registro  
-- TR-12 – Implementar confirmación al usuario  
+- TR-12 – Implementar confirmación al usuario
+
+![alt text](https://github.com/scalashildebrandop-dot/DOSW-LAB5/blob/develop/docs/images/task1.png)
+
 
 ### 4. Cronograma:
 
-![alt text](image-7.png)
+![alt text](https://github.com/scalashildebrandop-dot/DOSW-LAB5/blob/develop/docs/images/timeline.png)
 
 ### 5. Backlog:
 
