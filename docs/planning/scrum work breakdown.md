@@ -24,7 +24,7 @@
 | **Título** | Consultar saldo de una cuenta |
 | **Descripción** | Como **cliente**, quiero **consultar el saldo de mi cuenta**, para **conocer cuánto dinero tengo disponible**. |
 | **Prioridad** | Alto |
-| **Estimación** | |
+| **Estimación** | 1.7 |
 
 ### Tareas de HU-01 (Consultar saldo)
 
@@ -61,7 +61,7 @@
 | **Título** | Realizar un depósito a una cuenta |
 | **Descripción** | Como **cliente**, quiero **realizar un depósito a una cuenta**, para **agregar dinero de forma segura y controlada**. |
 | **Prioridad** | Alto |
-| **Estimación** |  |
+| **Estimación** | 1 |
 
 ### Tareas de HU-02 (Realizar depósito)
 
@@ -98,7 +98,7 @@
 | **Título** | Validar datos de cuenta antes de operar |
 | **Descripción** | Como **cliente**, quiero **registrarme en la plataforma**, para **ejecutar operaciones y/o consultar mi cuenta**. |
 | **Prioridad** | Medio |
-| **Estimación** |  |
+| **Estimación** | 3.3 |
 
 ### Tareas de HU-03 (Validar cuenta antes de operar)
 
@@ -134,8 +134,8 @@
 | **ID** | HU-04 |
 | **Título** | Confirmación y registro de transacciones |
 | **Descripción** | Como **cliente**, quiero **recibir confirmación y que quede registro del depósito**, para **tener evidencia de la transacción**. |
-| **Prioridad** |  |
-| **Estimación** |  |
+| **Prioridad** | Media |
+| **Estimación** | 1 |
 
 
 ### Tareas de HU-04 (Confirmación y registro)
@@ -165,3 +165,5 @@
 | **Tareas requisito** | TR-11 |
 
 ---
+## Punto 4
+El video de las estimaciones esta en DOSW-LAB5/docs/images
