@@ -19,7 +19,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 **ID Jira:** (Ej: BK-2)  
 **Descripción:** Como cliente, quiero consultar el saldo de mi cuenta, para conocer cuánto dinero tengo disponible.
 
-![alt text](image-1.png)
+![alt text](https://github.com/scalashildebrandop-dot/DOSW-LAB5/blob/develop/docs/images/Screenshot_20260228_181312.png)
 
 ### HU-02 – Realizar un depósito a una cuenta
 **ID Jira:** (Ej: BK-3)  
