@@ -74,3 +74,5 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ### 4 punto 
 ![alt text](image.png)
+### Punto 5 
+![alt text](https://github.com/scalashildebrandop-dot/DOSW-LAB5/blob/feature/plannig/docs/images/AsignacionSpring.png)
