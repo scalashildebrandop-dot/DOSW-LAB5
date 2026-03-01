@@ -23,8 +23,8 @@
 | **ID** | HU-01 |
 | **Título** | Consultar saldo de una cuenta |
 | **Descripción** | Como **cliente**, quiero **consultar el saldo de mi cuenta**, para **conocer cuánto dinero tengo disponible**. |
-| **Prioridad** |  |
-| **Estimación** |  |
+| **Prioridad** | Alto |
+| **Estimación** | |
 
 ### Tareas de HU-01 (Consultar saldo)
 
@@ -60,7 +60,7 @@
 | **ID** | HU-02 |
 | **Título** | Realizar un depósito a una cuenta |
 | **Descripción** | Como **cliente**, quiero **realizar un depósito a una cuenta**, para **agregar dinero de forma segura y controlada**. |
-| **Prioridad** |  |
+| **Prioridad** | Alto |
 | **Estimación** |  |
 
 ### Tareas de HU-02 (Realizar depósito)
@@ -97,7 +97,7 @@
 | **ID** | HU-03 |
 | **Título** | Validar datos de cuenta antes de operar |
 | **Descripción** | Como **cliente**, quiero **registrarme en la plataforma**, para **ejecutar operaciones y/o consultar mi cuenta**. |
-| **Prioridad** |  |
+| **Prioridad** | Medio |
 | **Estimación** |  |
 
 ### Tareas de HU-03 (Validar cuenta antes de operar)
