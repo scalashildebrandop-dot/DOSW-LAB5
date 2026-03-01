@@ -11,7 +11,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 **Descripción:** Permitir a los clientes realizar operaciones básicas sobre su cuenta bancaria como consultar saldo, realizar depósitos, validar datos y obtener confirmación de transacciones.  
 **Fecha de vencimiento:** (Colocar la fecha indicada en el caso de estudio)
 
-![alt text](image.png)
+![alt text](https://github.com/scalashildebrandop-dot/DOSW-LAB5/blob/feature/proj-work-breakdown/docs/images/epica.png)
+
 
 ### 2. Historias de usuario:
 
@@ -70,4 +71,4 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ### 5. Backlog:
 
-![alt text](image-8.png)
+![alt text](https://github.com/scalashildebrandop-dot/DOSW-LAB5/blob/feature/proj-work-breakdown/docs/images/backlog.png)
