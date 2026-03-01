@@ -78,3 +78,5 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 ![alt text](https://github.com/scalashildebrandop-dot/DOSW-LAB5/blob/feature/estimation/docs/images/Cambio_dueTime2.png)
 ![alt text](https://github.com/scalashildebrandop-dot/DOSW-LAB5/blob/feature/estimation/docs/images/Cambio_dueTime3.png)
 
+### 5 punto
+![alt text](https://github.com/scalashildebrandop-dot/DOSW-LAB5/blob/develop/docs/images/AsignacionSpring.png)
